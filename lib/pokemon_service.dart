@@ -1,5 +1,5 @@
-import 'package:pokedex_fluter/networking.dart';
-import 'package:pokedex_fluter/pokemon.dart';
+import 'package:pokedex/networking.dart';
+import 'package:pokedex/pokemon.dart';
 
 const kBaseUrl = 'https://pokeapi.co/api/v2';
 
