@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pokedex_fluter/pokemon.dart';
+import 'package:pokedex/pokemon.dart';
 
 
 const kPlaceholderImg = 'images/placeholder-image.png';
