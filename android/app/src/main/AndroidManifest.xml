@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tech.gregori.pokedex_fluter">
+    package="tech.gregori.pokedex">
    <application
-        android:label="pokedex_fluter"
+        android:label="pokedex"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
