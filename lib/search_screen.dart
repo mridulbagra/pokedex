@@ -2,9 +2,9 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pokedex_fluter/pokemon.dart';
-import 'package:pokedex_fluter/pokemon_service.dart';
-import 'package:pokedex_fluter/result_screen.dart';
+import 'package:pokedex/pokemon.dart';
+import 'package:pokedex/pokemon_service.dart';
+import 'package:pokedex/result_screen.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({Key? key}) : super(key: key);
